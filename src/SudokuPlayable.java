@@ -5,7 +5,7 @@ public class SudokuPlayable {
     private static final int SIZE = 8;
     private static final int EMPTY = 0;
 
-    public SudokuPlayable() {
+    public SudokuPlayable() { //first constructor for default object
         this.board = new int[SIZE][SIZE];
     }
 
