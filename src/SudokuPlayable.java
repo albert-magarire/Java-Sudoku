@@ -76,7 +76,7 @@ public class SudokuPlayable {
         }
         return null;
     }
-
+//WE COULD MAKE SOME CHANGES HERE
     public void printBoard() {
         for (int row = 0; row < SIZE; row++) {
             for (int col = 0; col < SIZE; col++) {
